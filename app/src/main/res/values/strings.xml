@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Administra Fácil</string>
+    <string name="eslogan_app">Control de finanzas para estudiantes universitarios</string>
+
+    <!-- Autenticación -->
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registro_titulo">Crear Cuenta</string>
+    <string name="registro_descripcion">Ingresa tus datos para registrarte en Administra Fácil</string>
+    <string name="campo_nombre">Nombre completo</string>
+    <string name="campo_correo">Correo electrónico</string>
+    <string name="campo_contrasena">Contraseña</string>
+    <string name="campo_telefono">Teléfono</string>
+    <string name="error_nombre">Ingresa un nombre válido</string>
+    <string name="error_correo">Ingresa un correo electrónico válido</string>
+    <string name="error_contrasena">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_telefono">Ingresa un teléfono de 10 dígitos</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="no_tienes_cuenta">¿No tienes una cuenta? Regístrate aquí</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Dashboard y Saldo -->
+    <string name="bienvenido_hola">¡Hola, %1$s!</string>
+    <string name="saldo_disponible">Saldo Disponible</string>
+    <string name="total_ingresos">Total Ingresos</string>
+    <string name="total_gastos">Total Gastos</string>
+    <string name="movimientos_recientes">Movimientos Recientes</string>
+    <string name="sin_movimientos">No hay movimientos registrados para este usuario.</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+    <!-- Filtros -->
+    <string name="todos">Todos</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="gastos">Gastos</string>
+    <string name="filtrar_categoria">Filtrar por categoría</string>
+
+    <!-- Formulario de Movimiento -->
+    <string name="nuevo_movimiento">Nuevo Movimiento</string>
+    <string name="tipo_movimiento">Tipo de Movimiento</string>
+    <string name="monto_label">Monto ($ MXN)</string>
+    <string name="categoria_label">Categoría</string>
+    <string name="descripcion_label">Descripción</string>
+    <string name="nota_label">Nota opcional</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingreso_tipo">Ingreso</string>
+    <string name="gasto_tipo">Gasto</string>
+    <string name="error_monto">Ingresa un monto válido mayor a 0</string>
+    <string name="error_descripcion">Ingresa una descripción</string>
+
+    <!-- Legado para compatibilidad si fuera necesario -->
+    <string name="festival_nombre">Administra Fácil</string>
+    <string name="festival_eslogan">Finanzas personales</string>
+    <string name="festival_fecha">2026</string>
+    <string name="festival_lugar">Campus Universitario</string>
+    <string name="logo_descripcion">Logo de Administra Fácil</string>
+    <string name="galeria_titulo">Categorías</string>
+    <string name="galeria_imagen">Imagen</string>
+    <string name="lineup_titulo">Historial</string>
+    <string name="dj_1">Comida</string>
+    <string name="dj_1_info">Alimentación</string>
+    <string name="dj_2">Transporte</string>
+    <string name="dj_2_info">Pasajes</string>
+    <string name="dj_3">Papelería</string>
+    <string name="dj_3_info">Útiles</string>
+    <string name="dj_4">Educación</string>
+    <string name="dj_4_info">Libros</string>
+    <string name="comprar_boletos">Nuevo Movimiento</string>
+    <string name="volver">Volver</string>
+    <string name="elige_boleto">Categoría</string>
+    <string name="boleto_general">Comida</string>
+    <string name="boleto_general_desc">Alimentación</string>
+    <string name="boleto_vip">Transporte</string>
+    <string name="boleto_vip_desc">Pasajes y gasolina</string>
+    <string name="boleto_backstage">Educación</string>
+    <string name="boleto_backstage_desc">Colegiaturas y útiles</string>
+    <string name="precio">$%1$d MXN</string>
+    <string name="cantidad_titulo">Monto</string>
+    <string name="cantidad_limite">Monto a registrar</string>
+    <string name="mas">+</string>
+    <string name="menos">−</string>
+    <string name="total_label">Monto Total</string>
+    <string name="confirmar_compra">Confirmar Registro</string>
+    <string name="compra_titulo">¡Registro Existoso!</string>
+    <string name="compra_detalle">Movimiento registrado correctamente.</string>
+    <string name="listo">Listo</string>
+    <string name="boletos_a_nombre">Movimiento de</string>
+    <string name="editar_datos">Editar</string>
+    <string name="mis_datos">Mis Datos</string>
+    <string name="dato_nombre">Nombre: %1$s</string>
+    <string name="dato_correo">Correo: %1$s</string>
+    <string name="dato_telefono">Teléfono: %1$s</string>
+</resources>
